@@ -1,0 +1,6 @@
+*.zip
+TF_edu
+*.idea
+RoadRecognition/venv/Lib
+TF_recognition/venv/Lib
+Tf_recognition/resourses/model.ckpt.data-00000-of-00001
